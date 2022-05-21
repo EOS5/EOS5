@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">College student learning about Artificial intelligence</h3>
+<h3 align="center">I'm a college student learning about Artificial intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eos5&label=Profile%20views&color=0e75b6&style=flat" alt="eos5" /> </p>
 
