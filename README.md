@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [facial recognition](https://github.com/EOS5/Projet-IA)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
